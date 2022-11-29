@@ -31,9 +31,9 @@
     "puzzle-base",
     "citresewn-defaults",
     "pride",
-    "fabric-language-kotlin"
-    "clientarguments"
-    "fabric-permissions-api"
+    "fabric-language-kotlin",
+    "clientarguments",
+    "fabric-permissions-api",
     "LodestoneLib"
   ]
 }
