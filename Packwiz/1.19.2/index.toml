@@ -14,7 +14,7 @@ hash = "62aec2349eb8721f5b069775e169eb8dc414b9c49fc0ce204370a472b14b552a"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "150051173dbdd0d24856ed6e1744d42c6c99a41d6d9844e8545b55165b7edb4b"
+hash = "1b8444873fa96ab9ee775e2cde918191b4c7fbcf8909e64932ac11f15e4fe04a"
 
 [[files]]
 file = "config/puzzle.json"
@@ -86,7 +86,7 @@ hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "f10cb83ea7b69fa5d645e3388454616a00d0c9cba8c9026ab5414d06ee6bb934"
+hash = "9c3dcebd712deaeca776c689c02405656013174845d4ad98c2c2482756bf2b8e"
 
 [[files]]
 file = "mods/adaptive-tooltips.pw.toml"
