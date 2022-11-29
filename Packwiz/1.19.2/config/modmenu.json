@@ -32,8 +32,8 @@
     "citresewn-defaults",
     "pride",
     "fabric-language-kotlin"
-    "clientarguments",
-    "fabric-permissions-api",
-    "LodestoneLib",
+    "clientarguments"
+    "fabric-permissions-api"
+    "LodestoneLib"
   ]
 }
