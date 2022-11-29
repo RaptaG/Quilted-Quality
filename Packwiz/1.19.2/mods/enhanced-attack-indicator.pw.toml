@@ -1,0 +1,17 @@
+name = "Enhanced Attack Indicator"
+filename = "enhanced_attack_indicator-1.0.4+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "63fbd9c64104d0cb961d74d16a70b5f3f7fb8587"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3855667
+project-id = 446173
+
+[option]
+optional = true
+default = true
