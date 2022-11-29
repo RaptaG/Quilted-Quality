@@ -9,10 +9,6 @@ file = "config/debugify.json"
 hash = "e7c411217f3389901ab74e7255b1215d1500a5d8e3deea6fe616b880432b41c1"
 
 [[files]]
-file = "config/isxander-main-menu-credits.json"
-hash = "62aec2349eb8721f5b069775e169eb8dc414b9c49fc0ce204370a472b14b552a"
-
-[[files]]
 file = "config/modmenu.json"
 hash = "1b8444873fa96ab9ee775e2cde918191b4c7fbcf8909e64932ac11f15e4fe04a"
 
