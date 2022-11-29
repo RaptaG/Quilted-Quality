@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".DS_Store"
-hash = "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
-
-[[files]]
 file = "mods/adaptive-tooltips.pw.toml"
 hash = "e9821189aeaef8c902f9039e4dd1671b0c6868ea8f98e8a29ed4b459e1a94bb2"
 metafile = true
