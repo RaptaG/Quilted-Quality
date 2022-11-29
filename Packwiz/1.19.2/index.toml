@@ -1,6 +1,94 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/citresewn.json"
+hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
+
+[[files]]
+file = "config/debugify.json"
+hash = "e7c411217f3389901ab74e7255b1215d1500a5d8e3deea6fe616b880432b41c1"
+
+[[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "62aec2349eb8721f5b069775e169eb8dc414b9c49fc0ce204370a472b14b552a"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "150051173dbdd0d24856ed6e1744d42c6c99a41d6d9844e8545b55165b7edb4b"
+
+[[files]]
+file = "config/puzzle.json"
+hash = "4d423adce405d48a1fcbe08df34026bf91012f6acc4db7e4e12738279c51e31c"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "d2c203a1255cc85189d86ded7ab2c08ffe51d55a7792065477692cdd8f8edba9"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Common.json"
+hash = "f9f1058ab3cbf0db894c25b233d5e29367a67997dbcc0e3a2c2029d56dbac9a3"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+hash = "3234b04a7a670f93da8e5c5f703e9615fcdbb7969a8093560328056467baa320"
+
+[[files]]
+file = "config/yosbr/config/borderlessmining.json"
+hash = "1dfdc3360afe91b5804eef79f8b868f874e3dfc0c975495f8994f378ffe37a8f"
+
+[[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "6d9b12b3d401e92557e0a8995bf055e446c04c45acb5140ec074c3235f27c4e9"
+
+[[files]]
+file = "config/yosbr/config/cem.conf"
+hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
+
+[[files]]
+file = "config/yosbr/config/dynamicfps.toml"
+hash = "00adc4f855ed41412f3c3eb48b859c4ae68b5f2c30ba4c332e66f38e79a0c449"
+
+[[files]]
+file = "config/yosbr/config/entity_texture_features.json"
+hash = "7755eec94b0d27c466eb38d51d4c5ef8c74484c5b9b0fc0bb1bf8a177ed93fec"
+
+[[files]]
+file = "config/yosbr/config/holdthatchunk.json"
+hash = "acc20d0a92edcf0497ebb62c7c673a8d9c99d872890bb53027722390f453e9dc"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
+
+[[files]]
+file = "config/yosbr/config/lambdabettergrass.toml"
+hash = "a96351b4d852862f0c994cd61a05856c965e73e8f698591f0f2f5ba9a30bd952"
+
+[[files]]
+file = "config/yosbr/config/lambdynlights.toml"
+hash = "5b83dbf79c2df634529371bb6fe139fadaf485710212080363a522f2f5983ca6"
+
+[[files]]
+file = "config/yosbr/config/midnightcontrols.json"
+hash = "b792f2977c2889e388d0a0e83e316ed4f27050729d86c8623e8472accb8a2a46"
+
+[[files]]
+file = "config/yosbr/config/midnightlib.json"
+hash = "f7f7122784c7a6bcdb034e663fd756e16ffe69a668cb1b334e2be622f8c7bd55"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "af92e5db2c47206728efcfa557d9ca6840faf4b0a82d1c0881c6309a97eea8f6"
+
+[[files]]
+file = "config/yosbr/config/tr7zwDonorSettings.json"
+hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "f10cb83ea7b69fa5d645e3388454616a00d0c9cba8c9026ab5414d06ee6bb934"
+
+[[files]]
 file = "mods/adaptive-tooltips.pw.toml"
 hash = "e9821189aeaef8c902f9039e4dd1671b0c6868ea8f98e8a29ed4b459e1a94bb2"
 metafile = true
