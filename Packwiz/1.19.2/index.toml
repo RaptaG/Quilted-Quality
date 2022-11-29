@@ -10,7 +10,7 @@ hash = "e7c411217f3389901ab74e7255b1215d1500a5d8e3deea6fe616b880432b41c1"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "1697bd47c13e9f716b5677eb72d88c82901bfc4e88b2480eebcabcc763fbc5c8"
+hash = "b03281b04b8fdf0cc9df0f98a660a0becbed74cf20ebe8ef73fceb5ab55005d5"
 
 [[files]]
 file = "config/puzzle.json"
