@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/auto-clicker-fabric.pw.toml"
-hash = "65d7b89bf85d40281ade74158b6684e4a6bcdbcbe723ffa12de692238218bd34"
+hash = "4cf0a3266ebcdd9ae42e25a019f1c822045e21be8147800224e954782ff10ad7"
 metafile = true
 
 [[files]]
