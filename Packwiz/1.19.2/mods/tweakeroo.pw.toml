@@ -15,4 +15,4 @@ project-id = 297344
 [option]
 optional = true
 default = true
-description = "Tweakeroo is a client-side mod, which adds a whole bunch of various different "tweaks" to the game."
+description = "Tweakeroo is a client-side mod, which adds a whole bunch of various different 'tweaks' to the game."
