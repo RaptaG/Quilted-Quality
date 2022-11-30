@@ -15,3 +15,4 @@ version = "H9oZ7N6p"
 [option]
 optional = true
 default = true
+description = "Cull leaves while looking hot!"

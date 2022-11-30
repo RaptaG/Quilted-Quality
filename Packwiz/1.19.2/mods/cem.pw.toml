@@ -15,3 +15,4 @@ version = "pobVcvCg"
 [option]
 optional = true
 default = true
+description = "Custom Entity Models support on Fabric"

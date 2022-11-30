@@ -15,3 +15,4 @@ version = "pRNvuggg"
 [option]
 optional = true
 default = true
+description = "Improves the ingame HUD while riding a mount"

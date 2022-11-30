@@ -15,3 +15,4 @@ version = "fZx04xgT"
 [option]
 optional = true
 default = true
+description = "Reduce FPS lag with block entities, as well as customize them with resource packs"

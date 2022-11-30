@@ -15,3 +15,4 @@ version = "g9FOSLTq"
 [option]
 optional = true
 default = true
+description = "Improve performance when Minecraft is in the background."

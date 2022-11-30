@@ -15,3 +15,4 @@ version = "66q1EPRX"
 [option]
 optional = true
 default = true
+description = "Emissive, Random & Custom texture support for entities in resourcepacks just like Optifine but for Fabric"

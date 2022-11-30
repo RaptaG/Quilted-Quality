@@ -15,3 +15,4 @@ version = "ic9rDGCw"
 [option]
 optional = true
 default = true
+description = "Lets you use capes from OptiFine, LabyMod and other cape mods"

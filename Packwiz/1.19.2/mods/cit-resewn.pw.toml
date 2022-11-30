@@ -15,3 +15,4 @@ version = "lYmW1wnD"
 [option]
 optional = true
 default = true
+description = "Re-implements MCPatcher's CIT (custom item textures from optifine resource packs)"

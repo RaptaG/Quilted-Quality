@@ -15,3 +15,4 @@ project-id = 446173
 [option]
 optional = true
 default = true
+description = "Uses the attack indicator for more than just melee attacks"

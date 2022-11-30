@@ -15,3 +15,4 @@ version = "PuyUL15E"
 [option]
 optional = true
 default = true
+description = "A Minecraft mod that improves the statistics screen and makes it more useful."

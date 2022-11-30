@@ -15,3 +15,4 @@ version = "UvBWAMZL"
 [option]
 optional = true
 default = true
+description = "Fixes Minecraft bugs found on the bug tracker"

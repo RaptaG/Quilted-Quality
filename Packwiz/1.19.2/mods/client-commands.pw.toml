@@ -15,3 +15,4 @@ version = "Nbeb8x7Q"
 [option]
 optional = true
 default = true
+description = "Adds useful client-side commands"

@@ -15,3 +15,4 @@ project-id = 556381
 [option]
 optional = true
 default = true
+description = "A Quilt client-side mod adding ambient and environmental interaction effects to enhance immersion."

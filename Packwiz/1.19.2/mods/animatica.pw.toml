@@ -15,3 +15,4 @@ version = "rghK1s60"
 [option]
 optional = true
 default = true
+description = "A mod implementing the OptiFine/MCPatcher animated texture format"

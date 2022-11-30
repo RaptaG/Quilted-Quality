@@ -15,3 +15,4 @@ project-id = 445095
 [option]
 optional = true
 default = false
+description = "Quick and dirty Auto Clicker mod for Fabric"

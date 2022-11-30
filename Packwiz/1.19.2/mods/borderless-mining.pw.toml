@@ -15,3 +15,4 @@ version = "gqoXgtxO"
 [option]
 optional = true
 default = true
+description = "Changes Fullscreen to use a borderless window."

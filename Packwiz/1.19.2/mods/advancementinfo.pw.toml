@@ -15,3 +15,4 @@ version = "p4psnBkA"
 [option]
 optional = true
 default = true
+description = "Show more information about advancement requirements"
