@@ -15,3 +15,4 @@ version = "pmMCbsN3"
 [option]
 optional = true
 default = true
+description = "Enhances inventory management by adding various functions to the mouse buttons."

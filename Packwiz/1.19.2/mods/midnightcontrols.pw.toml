@@ -15,3 +15,4 @@ version = "flDrm4to"
 [option]
 optional = true
 default = true
+description = "Adds controller support and enhanced controls overall."

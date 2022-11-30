@@ -15,3 +15,4 @@ version = "LGYOH4RN"
 [option]
 optional = true
 default = true
+description = "Adds a list of mixins in the stack trace to crash reports"

@@ -15,3 +15,4 @@ version = "dMa6WKeK"
 [option]
 optional = true
 default = true
+description = "WTHIT plugin that shows more tooltip than you'll ever want."

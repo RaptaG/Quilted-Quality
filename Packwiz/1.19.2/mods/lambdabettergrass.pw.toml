@@ -15,3 +15,4 @@ version = "UWFTYBmq"
 [option]
 optional = true
 default = true
+description = "A Minecraft mod which adds better grass and snow to the game."

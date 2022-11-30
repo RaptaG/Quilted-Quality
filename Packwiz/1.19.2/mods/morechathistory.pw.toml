@@ -15,3 +15,4 @@ version = "b1apT2G2"
 [option]
 optional = true
 default = true
+description = "Increases the maximum length of chat history."

@@ -15,3 +15,4 @@ version = "ajfDYyUy"
 [option]
 optional = true
 default = true
+description = "A Minecraft mod which adds more tooltips."

@@ -15,3 +15,4 @@ version = "Fq42foYA"
 [option]
 optional = true
 default = true
+description = "Take insanely large screenshots because why not"

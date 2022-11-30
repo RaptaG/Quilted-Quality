@@ -15,3 +15,4 @@ version = "yTfou6df"
 [option]
 optional = true
 default = true
+description = "Sodium addon providing support for the Fabric Rendering API, based on Indigo"

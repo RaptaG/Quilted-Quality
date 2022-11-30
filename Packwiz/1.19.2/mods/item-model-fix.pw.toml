@@ -15,3 +15,4 @@ version = "vKmXWAvG"
 [option]
 optional = true
 default = true
+description = "A Fabric mod that fixes gaps in generated item models."

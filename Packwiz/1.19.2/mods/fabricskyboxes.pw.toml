@@ -15,3 +15,4 @@ version = "t2tvlfIW"
 [option]
 optional = true
 default = true
+description = "Allows resource packs to define custom skyboxes."

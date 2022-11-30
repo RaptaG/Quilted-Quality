@@ -15,3 +15,4 @@ version = "38XrCOzz"
 [option]
 optional = true
 default = true
+description = "Highlights the mobs that are preventing you from sleeping"

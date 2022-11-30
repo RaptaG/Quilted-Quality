@@ -15,3 +15,4 @@ project-id = 303119
 [option]
 optional = true
 default = true
+description = "MaLiLib is a library mod containing shared code for masa's client-side mods."

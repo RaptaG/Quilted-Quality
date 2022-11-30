@@ -15,3 +15,4 @@ version = "5Ox2LQ1C"
 [option]
 optional = true
 default = true
+description = "A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs"

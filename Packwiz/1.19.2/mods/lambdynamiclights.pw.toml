@@ -15,3 +15,4 @@ version = "Fp4gUsxF"
 [option]
 optional = true
 default = true
+description = "A dynamic lights mod for Fabric."
