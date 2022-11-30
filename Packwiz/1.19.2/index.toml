@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "84532050c4c7d019c58fb0599558371de300908e5c81e815946ac7342899d9f0"
+hash = "a3b4f84966f5da397d948aaee19b1bae5fb29b0d71fa2288c930134bd3005d2f"
 metafile = true
 
 [[files]]
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "5c601b4b73b6d0371afd703cdffdedba61681d3fed9ef66e04bc3483417c96be"
+hash = "3fae80e0d55e860cf1b3976c006fa23e47151aee8f42bac3cfa886218879b58f"
 metafile = true
 
 [[files]]
