@@ -21,6 +21,10 @@ file = "config/puzzle.json"
 hash = "4d423adce405d48a1fcbe08df34026bf91012f6acc4db7e4e12738279c51e31c"
 
 [[files]]
+file = "config/wmch.json"
+hash = "13c45cff1e6e195ff0b8af90959afca6c5df513559f136c2bac3daf0e9be32da"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "d2c203a1255cc85189d86ded7ab2c08ffe51d55a7792065477692cdd8f8edba9"
 
@@ -441,6 +445,11 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "3fae80e0d55e860cf1b3976c006fa23e47151aee8f42bac3cfa886218879b58f"
+metafile = true
+
+[[files]]
+file = "mods/wmch.pw.toml"
+hash = "fb07f777431e6a088bf896e03d312151af0b07d01965d9e0b944d16d44c53efb"
 metafile = true
 
 [[files]]
