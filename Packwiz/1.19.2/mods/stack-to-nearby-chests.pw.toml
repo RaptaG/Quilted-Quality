@@ -15,3 +15,4 @@ version = "8VUlVGAy"
 [option]
 optional = true
 default = true
+description = "Adds the quick stacking and restocking features from Terraria into Minecraft."

@@ -15,3 +15,4 @@ version = "nls01OIv"
 [option]
 optional = true
 default = true
+description = "A zoom mod with infinite customizability."

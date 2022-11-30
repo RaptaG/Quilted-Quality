@@ -15,3 +15,4 @@ version = "TM6dpuQ9"
 [option]
 optional = true
 default = true
+description = "Adds resourcepack features and a GUI to more conveniently configure OptiFine alternatives."

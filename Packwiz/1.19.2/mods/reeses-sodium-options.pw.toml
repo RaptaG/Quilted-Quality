@@ -15,3 +15,4 @@ version = "Iusxhlyd"
 [option]
 optional = true
 default = true
+description = "Alternative Options Menu for Sodium"

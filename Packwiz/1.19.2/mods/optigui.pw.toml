@@ -15,3 +15,4 @@ version = "RMa6KMf9"
 [option]
 optional = true
 default = true
+description = "A client side drop-in replacement for OptiFine custom GUIs"

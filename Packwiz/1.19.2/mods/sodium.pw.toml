@@ -15,3 +15,4 @@ version = "rAfhHfow"
 [option]
 optional = true
 default = true
+description = "Modern rendering engine and client-side optimization mod for Minecraft"

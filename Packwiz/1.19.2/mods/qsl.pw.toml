@@ -15,3 +15,4 @@ version = "NRjGGNrs"
 [option]
 optional = true
 default = true
+description = "The standard libraries of the Quilt ecosystem. Essential for your modding experience on Quilt!"

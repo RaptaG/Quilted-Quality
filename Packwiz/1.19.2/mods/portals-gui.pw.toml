@@ -15,3 +15,4 @@ version = "dg8ahd5S"
 [option]
 optional = true
 default = true
+description = "Prevent nether portals from closing GUIs"

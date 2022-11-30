@@ -15,3 +15,4 @@ version = "qH1xCwoC"
 [option]
 optional = true
 default = true
+description = "Rewrites the light engine to fix lighting performance and lighting errors"

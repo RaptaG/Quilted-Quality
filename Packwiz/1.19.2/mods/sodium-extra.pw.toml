@@ -15,3 +15,4 @@ version = "Z9F12IDt"
 [option]
 optional = true
 default = true
+description = "Features that shouldn't be in Sodium."

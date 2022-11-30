@@ -15,3 +15,4 @@ version = "RhyaY2vw"
 [option]
 optional = true
 default = true
+description = "Spark is a performance profiler for Minecraft clients, servers and proxies."

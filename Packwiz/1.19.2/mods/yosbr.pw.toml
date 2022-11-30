@@ -15,3 +15,4 @@ version = "dStXfyg3"
 [option]
 optional = true
 default = true
+description = "Your options shall be respected."
