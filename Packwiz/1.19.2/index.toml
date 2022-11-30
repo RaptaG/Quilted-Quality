@@ -38,7 +38,7 @@ hash = "1dfdc3360afe91b5804eef79f8b868f874e3dfc0c975495f8994f378ffe37a8f"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
-hash = "6d9b12b3d401e92557e0a8995bf055e446c04c45acb5140ec074c3235f27c4e9"
+hash = "ed25272c8524990119ca76fc150e5cff6c878beacbd5e9f321e2a9e579592395"
 
 [[files]]
 file = "config/yosbr/config/cem.conf"
