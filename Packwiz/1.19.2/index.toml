@@ -358,11 +358,6 @@ hash = "9ca7c066f0ec262588eb62ddea78474e22d845fee306fbe839f06d0a3074c79b"
 metafile = true
 
 [[files]]
-file = "mods/morechathistory.pw.toml"
-hash = "b6ca78b69a53270731b58f1e39712465200e40255398306854462593e8437498"
-metafile = true
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "df0116f5c0c23251f8765a00160e963e4766befcf1773ec98c46078172c2850f"
 metafile = true
