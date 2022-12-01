@@ -1,0 +1,18 @@
+name = "Clean Logs"
+filename = "clean-logs-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OTteoJUk/versions/1.2.0/clean-logs-1.2.0.jar"
+hash-format = "sha1"
+hash = "e8171892b03f2a292717b367c870606f009479cd"
+
+[update]
+[update.modrinth]
+mod-id = "OTteoJUk"
+version = "fxjqhemD"
+
+[option]
+optional = true
+default = true
+description = "A fork of Shut Up Console to add a feature and provide support"

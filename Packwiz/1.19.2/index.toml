@@ -5,6 +5,10 @@ file = "config/citresewn.json"
 hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 
 [[files]]
+file = "config/clean-logs/config.toml"
+hash = "4e8550db6693e01167ea75cb06bbe0bc2f9a5f60a0be3c63eeb7d0cab2cfa426"
+
+[[files]]
 file = "config/debugify.json"
 hash = "e7c411217f3389901ab74e7255b1215d1500a5d8e3deea6fe616b880432b41c1"
 
@@ -155,6 +159,11 @@ metafile = true
 [[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "87f4d7a716f00fdb3fa6c50ce07c3aa06140a5031ea23e3ea6e6837fc5d4f9b7"
+metafile = true
+
+[[files]]
+file = "mods/clean-logs.pw.toml"
+hash = "b70c302c76ad827ebe92cb15826e5a054f0579859f6e823e0577eaf72b7d4098"
 metafile = true
 
 [[files]]
