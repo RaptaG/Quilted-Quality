@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "67c71c10faee888512b2b4250c2a3e818d86af4ca88fd3e73bc63f5848a83b15"
+hash = "25e7332edb4041e510afde5e9f4cd12df7aed059c40f5c145d19d5036dd0fc0f"
 metafile = true
 
 [[files]]
@@ -294,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "01d47d0dd508519a171f4a76ceb86a515bfc801f93179efa740d0297d95dd5e7"
+hash = "b877592719b108b5cc769328d7b5f4f3476b232af37373926f1f203c3f5ab529"
 metafile = true
 
 [[files]]
@@ -389,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "57829109a3fdde127b972b179a893186079f696da118b635f4c07c0e8a011b76"
+hash = "f8e6aa9d3e531a6289238d42a2a59d25e6513cf4d2912fe9bb6544985cec6850"
 metafile = true
 
 [[files]]
@@ -404,7 +404,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "5d43f3031b26f011831d039128844166bec5bd4a8c5597e210f5c33cefca44f6"
+hash = "b0a77d918b6c0aaf98fa43bee72a6f93887ae94952d0cbb6b196e75515d9f2fb"
 metafile = true
 
 [[files]]
@@ -414,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "6f8a6ef6c04c8015e9151470a1d83029b60de79f9771625167edc6b0e15e8006"
+hash = "b682fe5058fd76b293735f7cdc3562825b05bb0c234fab1b6d8343ea047c20dd"
 metafile = true
 
 [[files]]

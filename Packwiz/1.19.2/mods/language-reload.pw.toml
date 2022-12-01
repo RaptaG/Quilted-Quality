@@ -1,18 +1,18 @@
 name = "Language Reload"
-filename = "language-reload-1.3.2.jar"
+filename = "language-reload-1.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/uLbm7CG6/versions/1.3.2/language-reload-1.3.2.jar"
+url = "https://cdn.modrinth.com/data/uLbm7CG6/versions/eSmoMhMv/language-reload-1.4.jar"
 hash-format = "sha1"
-hash = "f35701734ae863b9736f35e09b1f3658b4b60d23"
+hash = "b6be079b0cc994f314e6af5109b5551e87517d32"
 
 [update]
 [update.modrinth]
 mod-id = "uLbm7CG6"
-version = "u6Owujgv"
+version = "eSmoMhMv"
 
 [option]
 optional = true
-default = true
 description = "Reduces load times and adds fallbacks for languages"
+default = true
