@@ -1,0 +1,100 @@
+{
+  "appearance": {
+    "showStackToNearbyContainersButton": {
+      "value": true
+    },
+    "showRestockFromNearbyContainersButton": {
+      "value": true
+    },
+    "showQuickStackButton": {
+      "value": true
+    },
+    "showRestockButton": {
+      "value": true
+    },
+    "stackToNearbyContainersButtonPosX": {
+      "defaultValue": 140,
+      "value": 140
+    },
+    "stackToNearbyContainersButtonPosY": {
+      "defaultValue": 170,
+      "value": 170
+    },
+    "restockFromNearbyContainersButtonPosX": {
+      "defaultValue": 160,
+      "value": 160
+    },
+    "restockFromNearbyContainersButtonPosY": {
+      "defaultValue": 170,
+      "value": 170
+    }
+  },
+  "behavior": {
+    "searchInterval": {
+      "defaultValue": 0,
+      "value": 0
+    },
+    "favoriteItemStacksCannotBeThrown": {
+      "value": false
+    },
+    "favoriteItemStacksCannotBeQuickMoved": {
+      "value": false
+    },
+    "favoriteItemStacksCannotBeSwapped": {
+      "value": false
+    },
+    "stackingTargets": [
+      "minecraft:chest",
+      "minecraft:trapped_chest",
+      "minecraft:barrel",
+      "minecraft:ender_chest",
+      "minecraft:shulker_box"
+    ],
+    "itemsThatWillNotBeStacked": [
+      "minecraft:shulker_box"
+    ],
+    "restockingSources": [
+      "minecraft:chest",
+      "minecraft:trapped_chest",
+      "minecraft:barrel",
+      "minecraft:ender_chest",
+      "minecraft:shulker_box"
+    ],
+    "itemsThatWillNotBeRestocked": [
+      "minecraft:shulker_box"
+    ]
+  },
+  "keymap": {
+    "stackToNearbyContainersKey": {
+      "keys": [],
+      "defaultKeys": []
+    },
+    "restockFromNearbyContainersKey": {
+      "keys": [],
+      "defaultKeys": []
+    },
+    "quickStackKey": {
+      "keys": [],
+      "defaultKeys": []
+    },
+    "restockKey": {
+      "keys": [],
+      "defaultKeys": []
+    },
+    "markAsFavoriteKey": {
+      "keys": [],
+      "defaultKeys": [
+        342,
+        -99
+      ]
+    },
+    "openModOptionsScreenKey": {
+      "keys": [],
+      "defaultKeys": [
+        341,
+        83,
+        67
+      ]
+    }
+  }
+}

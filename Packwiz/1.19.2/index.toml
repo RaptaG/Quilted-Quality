@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/auto-clicker-fabric.json"
+hash = "91285dfb166c0dd14f87bda4f4acc2d23e9f384b50f1eaf9da005f66894baa6e"
+
+[[files]]
 file = "config/citresewn.json"
 hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 
@@ -13,8 +17,20 @@ file = "config/debugify.json"
 hash = "e7c411217f3389901ab74e7255b1215d1500a5d8e3deea6fe616b880432b41c1"
 
 [[files]]
+file = "config/idwtialsimmoedm.json"
+hash = "096beff9deed70b6e3713818fa499f1fb148e40e7c4bfa9335c755a7d0baed45"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "921398929dd39e6a0c2bbd513528e08b6d5880c5bef53675fd33f7917f0e64ad"
+
+[[files]]
+file = "config/malilib.json"
+hash = "c7486c0c1e198b7227066f1926389117aab9d4705aca3911ed3aceb450669e4b"
+
+[[files]]
+file = "config/minihud.json"
+hash = "a077eaadd9970fc5efe9f7bde30388c3baa80e1ae8b7511eee624758a5281058"
 
 [[files]]
 file = "config/modmenu.json"
@@ -23,6 +39,14 @@ hash = "150051173dbdd0d24856ed6e1744d42c6c99a41d6d9844e8545b55165b7edb4b"
 [[files]]
 file = "config/puzzle.json"
 hash = "4d423adce405d48a1fcbe08df34026bf91012f6acc4db7e4e12738279c51e31c"
+
+[[files]]
+file = "config/stack-to-nearby-chests/mod-options.json"
+hash = "2059e08bee1933a35f7cbc0e7ebcf65dc613c5ac5e7d3b1429166f39b88059e2"
+
+[[files]]
+file = "config/tweakeroo.json"
+hash = "5de3be410b64adbcd25e1189e866cfcc2cea1922e04154cba1a7b55fb9b00784"
 
 [[files]]
 file = "config/wmch.json"
