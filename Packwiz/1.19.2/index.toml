@@ -49,6 +49,26 @@ file = "config/tweakeroo.json"
 hash = "5de3be410b64adbcd25e1189e866cfcc2cea1922e04154cba1a7b55fb9b00784"
 
 [[files]]
+file = "config/waila/blacklist.json"
+hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
+
+[[files]]
+file = "config/waila/megane.json"
+hash = "54b0630f7b23f3ef5ede7167e4abf44e9822ebf2979932cc0a59ee5e0e729a31"
+
+[[files]]
+file = "config/waila/megane_modules.json"
+hash = "6a037b20a5c035286eb07dfd23a8557fc61be05f1bad2aaaec7f093c208b5163"
+
+[[files]]
+file = "config/waila/waila.json"
+hash = "eb480e5a35380e0bde179661ead7cb2fc8021fc283cf7e5cbdb4b0509cd0b681"
+
+[[files]]
+file = "config/waila/waila_plugins.json"
+hash = "1bafd85c9972ef2d7e7a68ceb60609f6cf9accb2170681a34f9773cb18469b56"
+
+[[files]]
 file = "config/wmch.json"
 hash = "13c45cff1e6e195ff0b8af90959afca6c5df513559f136c2bac3daf0e9be32da"
 
