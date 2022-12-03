@@ -17,6 +17,10 @@ file = "config/debugify.json"
 hash = "e7c411217f3389901ab74e7255b1215d1500a5d8e3deea6fe616b880432b41c1"
 
 [[files]]
+file = "config/emi.css"
+hash = "8e4f33658d14c6c428a0cdace4b58396e6194a0b1e4596771f104e4d827eceb5"
+
+[[files]]
 file = "config/idwtialsimmoedm.json"
 hash = "096beff9deed70b6e3713818fa499f1fb148e40e7c4bfa9335c755a7d0baed45"
 
