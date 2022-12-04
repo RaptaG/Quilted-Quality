@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-commands.pw.toml"
-hash = "46a59278f4f09905d0a8912cff58da04c1291cf8e7b806b1751bc46c9d31265f"
+hash = "75be017355b7862b13c75d09caeb39bd8f16c0dbea3c3ff3edb5fa5804148e4a"
 metafile = true
 
 [[files]]
@@ -351,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "b877592719b108b5cc769328d7b5f4f3476b232af37373926f1f203c3f5ab529"
+hash = "b3a0778501a3d5d96e108bc3e4ee9ded25a926729a58523187c2f920d4b2a9ab"
 metafile = true
 
 [[files]]
