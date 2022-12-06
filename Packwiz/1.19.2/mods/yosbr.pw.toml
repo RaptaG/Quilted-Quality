@@ -11,8 +11,3 @@ hash = "0643830cab952fc96872702e681b863b550c8530"
 [update.modrinth]
 mod-id = "WwbubTsV"
 version = "dStXfyg3"
-
-[option]
-optional = true
-default = true
-description = "Your options shall be respected."
