@@ -340,6 +340,11 @@ hash = "a997371ca3165c12715c5d07c7d0b44fe7958bd22ce09b8662d920cd44eacdba"
 metafile = true
 
 [[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "0f824bfe6520b471344609eb05fc835f1d225e18bfe5e3a16bd499a554bdec55"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "945475371b238b80cfa9b5a5e06a1659bcb08d191f7458abe3f3e309a92bf37f"
 metafile = true
