@@ -230,6 +230,11 @@ hash = "419bb35e07025969b960e0a596f52c2a8532b1f4b6bbc9bfa3d837e7d4111e73"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "addd34c7fb557e9bb6948f9dc1354162fc59df20d4feb0c2545f4bad7df080bf"
+metafile = true
+
+[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "574ecc13aced20b538571eb657ecf95b4a740991a9fc00e361b42c34b8404a96"
 metafile = true
