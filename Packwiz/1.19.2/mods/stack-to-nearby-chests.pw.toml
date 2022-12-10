@@ -1,18 +1,18 @@
 name = "Stack to Nearby Chests"
-filename = "stack-to-nearby-chests-1.19.2-0.2.1.jar"
+filename = "stack-to-nearby-chests-1.19.2-0.2.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/HtGckJVc/versions/8VUlVGAy/stack-to-nearby-chests-1.19.2-0.2.1.jar"
+url = "https://cdn.modrinth.com/data/HtGckJVc/versions/HBoGGqOE/stack-to-nearby-chests-1.19.2-0.2.2.jar"
 hash-format = "sha1"
-hash = "e65ab6fdd50b1daa1a8d369a120f1469619b2f1f"
+hash = "483d958effa251a7797a97dab2f8903d76165895"
 
 [update]
 [update.modrinth]
 mod-id = "HtGckJVc"
-version = "8VUlVGAy"
+version = "HBoGGqOE"
 
 [option]
 optional = true
-default = true
 description = "Adds the quick stacking and restocking features from Terraria into Minecraft."
+default = true

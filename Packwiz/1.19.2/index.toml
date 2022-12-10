@@ -286,12 +286,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "2a0baf61975364a36773ee4678b7b11a6c281556ef892fbe432d57bdafd79768"
+hash = "8601b489f213d321718607975197056dc76c4bf2e788280ded5832f83d2852ef"
 metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "695bbde61a147d89b10f49fa8ccbdcb766e31692c91db1f289a1bfb23ede73b9"
+hash = "e72208e85e9d42e48b344446391f104a4786f85b7f203b396ca88bac01e870a2"
 metafile = true
 
 [[files]]
@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "5411e5dbe2f92f4d9285d783c544d515e01e37baaec7ec2fa9748a11da36a4fb"
+hash = "2a699ce64f29f8cfbbe3cb131c8c1f5046b927c3e870f666fa987654749463c9"
 metafile = true
 
 [[files]]
@@ -371,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "f301c9df50f25af3f0fd45aa56491d6b0fd8116f45e6b8bc91770beb07e99705"
+hash = "1006a2e5c542d54c45db1bb7555b48d41e61c48e56076e033e8d240f0d35cd7f"
 metafile = true
 
 [[files]]
@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "18ec2f6fb97ac44153107cf48c168aecb6d9b426d7da5f3b7e255663829c037d"
+hash = "116fc5e12b2b7a927a93353c17742a23b5583277f159a1720dd55a107048b255"
 metafile = true
 
 [[files]]
@@ -456,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "f8e6aa9d3e531a6289238d42a2a59d25e6513cf4d2912fe9bb6544985cec6850"
+hash = "1e47585385814f7bf88ea4755b25582e96988a0641f97f341aa7c22fb91e76ab"
 metafile = true
 
 [[files]]
@@ -486,12 +486,12 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "6c8c0899db80678b271cfab9175f11365d196ff61e8132fdf488b2bc8ee56d97"
+hash = "be366e41508cf80dca2b27df296766d3eb110df002e80add75f4f1d91474d341"
 metafile = true
 
 [[files]]
 file = "mods/stack-to-nearby-chests.pw.toml"
-hash = "af22e75daac119452ef5eb1e0840e6856df7824cc044e82fbd09dbb591785d37"
+hash = "badfca72b12ff52a756fa34ce21badc973108594ea4b40d4fc16343a57b04fa7"
 metafile = true
 
 [[files]]
@@ -526,5 +526,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "d768206e17c1536a83416b7f80362bea2e462a61cb42d57fd882dccf7853e8b9"
+hash = "5cec5f5c1530ae571dc923463ada010fec30cc5bf2b38c52953ab53ee3b72a56"
 metafile = true
