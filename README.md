@@ -14,7 +14,15 @@
 
 ## What's this pack?
 
+### Inspiration
 
+This pack exists thanks to:
+
+- [robotkoer](https://modrinth.com/user/robotkoer), the creator of the [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) modpack
+- [ryanccn](https://modrinth.com/user/ryanccn), the creator of the [Vanillish](https://modrinth.com/modpack/vanillish) modpack
+- [Kichura](https://modrinth.com/user/Kichura), the creator of the [MCWine](https://modrinth.com/modpack/mcwine) modpack
+
+:warning: **Note:** These people **are not** associated nor endorse this project, their projects just gave me motivation to create my own modpack.
 
 ## License
 
