@@ -8,11 +8,11 @@
   <a href="https://quiltmc.org"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/supported/quilt_vector.svg" alt="Availiable for Quilt" height="35"></a>
 
   <a href="https://modrinth.com/modpack/fabulously-optimized"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/fabulously-optimized_vector.svg" alt="Built on Fabulously Optimized" height="35"></a>
-  <a href="https://ko-fi.com/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/donate/kofi-singular_vector.svg" alt="Ko-Fi" height="35"></a>
+  <a href="https://ko-fi.com/zxhir"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/donate/kofi-singular_vector.svg" alt="Ko-Fi" height="35"></a>
 
 </div>
 
-## What's this pack about?
+## What's this pack?
 
 
 
